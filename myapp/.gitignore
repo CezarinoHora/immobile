@@ -1,0 +1,11 @@
+/tmp
+passenger_wsgi.py
+.venv 
+db.sqlite3
+/static_media
+static_media 
+static_files 
+/static_files  
+__pycache__ 
+__pycache__/
+/__pycache__/
