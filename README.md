@@ -6,6 +6,7 @@ Curso: Tecnologia em Sistemas para Internet - IFMT 2025
 #Tecnologias
 Python
 Django
-JavaScript
+Html
+Css
 Bootstrap
 Git
